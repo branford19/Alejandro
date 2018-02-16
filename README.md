@@ -3,7 +3,14 @@ The World's Smallest LAMP Server OS, based on Debian Stretch
 
 # PLAUSIBLE DENIABILITY OPTION AVAILABLE (Live boot ISO)
 
-## Package List
+## Getting Started
+
+1. Download the ISO and burn it to a USB.
+2. Boot!
+3. Log in using root:toor and immediately change the password! (For security)
+4. Do your thing! It's live so it's perfect for running tor websites (Tor integrated version coming soon).
+
+## Package List For Mega Nerds
 adduser                                         
 analog                                          
 apache2                                         
